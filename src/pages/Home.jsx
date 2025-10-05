@@ -208,7 +208,7 @@ function Home() {
           </motion.div>
 
           <motion.img
-            src="public/images/image.png"
+            src="/images/image.png"
             alt="Jackey Kumar - Web Developer"
             className="relative z-10 w-44 h-44 md:w-52 md:h-52 rounded-full border-4 border-white shadow-2xl object-cover"
             whileHover={{
